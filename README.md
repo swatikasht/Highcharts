@@ -1,4 +1,8 @@
 
 # Highcharts
 Implemented sample highcharts in angular 4.
->>>>>>> 4f22559d96d7b5c056a2ab96d17701288c015063
+
+1. Clone the Repo.
+2. Do npm install.
+3. run ng serve.
+4. Open http://localhost:4200
